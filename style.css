@@ -171,6 +171,8 @@ p {
 .info h2 {
     margin-top: 0;
 }
+
+
 /* FOOTER */
 
 footer {
@@ -193,6 +195,15 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+
+/* BACK LINK */
+
+.back-link {
+    display: inline-block;
+    margin-bottom: 24px;
+}
+
 
 /* MOBILE */
 
@@ -242,7 +253,4 @@ footer a:hover {
         padding: 25px;
         border-radius: 25px;
     }
-}.back-link {
-    display: inline-block;
-    margin-bottom: 24px;
 }
