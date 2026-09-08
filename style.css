@@ -242,4 +242,7 @@ footer a:hover {
         padding: 25px;
         border-radius: 25px;
     }
+}.back-link {
+    display: inline-block;
+    margin-bottom: 24px;
 }
